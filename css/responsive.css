@@ -1,0 +1,321 @@
+@media screen and (max-width: 1290px) {
+  .header .panel .logo {
+    padding-left: 0; }
+    .header .panel .logo .name {
+      padding-right: 0;
+      text-align: left; }
+  .header .panel .links {
+    padding-left: 0;
+    text-align: right; }
+    .header .panel .links a {
+      font-size: 18px; }
+  .header .panel .contacts {
+    padding-right: 0; }
+  .menu a {
+    margin-right: 0;
+    font-size: 18px; }
+  .main .services .description br {
+    display: none; }
+  .main .thanks {
+    text-align: center; }
+    .main .thanks .col {
+      display: inline-block;
+      float: none; }
+  .main .services-table .col {
+    width: 50%;
+    padding-left: 10px;
+    padding-right: 10px; }
+  .main .services-table img, .main .services-table p {
+    width: 100%; }
+  .main .services-table p {
+    position: relative;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box; }
+  .main .about .left, .main .about .right {
+    width: 50%; }
+  .main .about .left {
+    padding-left: 15px;
+    padding-right: 15px; }
+  .main .about .right img {
+    display: block;
+    margin: 0 auto; } }
+
+@media screen and (max-width: 1060px) {
+  .header .panel .logo img {
+    width: 100%; }
+  .header .panel .links {
+    width: 37%;
+    text-align: right; }
+    .header .panel .links a {
+      font-size: 14px; }
+  .header .panel .contacts {
+    float: right;
+    width: 29%; }
+    .header .panel .contacts .tel {
+      font-size: 26px; }
+    .header .panel .contacts .time {
+      font-size: 16px; }
+  .main .trust .col {
+    width: 50%;
+    margin-bottom: 50px; }
+  .main .about {
+    padding-top: 15px; }
+    .main .about .left, .main .about .right {
+      width: 100%; }
+    .main .about .left p {
+      font-size: 12px;
+      margin-left: auto;
+      margin-right: auto;
+      padding-left: 15px;
+      padding-right: 15px; }
+    .main .about .right img {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%; }
+  .main .guarantees .row {
+    padding-left: 0;
+    padding-right: 0; }
+  .menu a {
+    font-size: 14px; }
+  .menu.menu.bottom {
+    text-align: center; }
+    .menu.menu.bottom a {
+      margin: 0 7px; } }
+
+@media screen and (max-width: 1000px) {
+  .main .services-table p {
+    font-size: 16px;
+    padding-left: 5px;
+    padding-right: 5px; } }
+
+@media screen and (max-width: 950px) {
+  .header .banner .title {
+    width: 100%; }
+  .main .services .col {
+    width: 50%;
+    margin-bottom: 50px; }
+  .main .clients .slick-arrow.slick-prev {
+    left: -10px; }
+  .main .clients .slick-arrow.slick-next {
+    right: -10px; } }
+
+@media screen and (max-width: 900px) {
+  .header .panel .logo .name {
+    font-size: 14px; }
+  .header .panel .links {
+    text-align: center; }
+    .header .panel .links i {
+      display: none; }
+  .header .panel .contacts .tel {
+    font-size: 20px; }
+  .header .banner .title {
+    padding-left: 15px;
+    padding-right: 15px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box; }
+  .menu a {
+    padding-left: 15px;
+    padding-right: 15px; } }
+
+@media screen and (max-width: 820px) {
+  .main .clients .container {
+    padding-left: 30px;
+    padding-right: 30px; }
+  .main .clients .slider {
+    width: 100%; }
+  .main .clients .slick-arrow.slick-prev {
+    left: -10px; }
+  .main .clients .slick-arrow.slick-next {
+    right: -10px; } }
+
+@media screen and (max-width: 800px) {
+  .header .panel {
+    height: auto;
+    padding-bottom: 20px; }
+    .header .panel .contacts .time {
+      font-size: 14px; } }
+
+@media screen and (max-width: 768px) {
+  .menu a {
+    font-size: 11px;
+    display: block; }
+  body {
+    font-size: 11px; }
+  h2, h3 {
+    font-size: 18px; }
+  button#sticks, button#phone {
+    display: block;
+    position: absolute; }
+  .row {
+    padding-left: 0 !important;
+    padding-right: 0 !important; }
+  .col {
+    width: 100% !important;
+    margin-bottom: 50px;
+    padding-left: 0 !important;
+    padding-right: 0 !important; }
+  .menu.top {
+    display: none;
+    position: fixed;
+    z-index: 999;
+    top: 59px;
+    left: 0;
+    width: 100%;
+    padding-top: 27.5px;
+    padding-bottom: 27.5px;
+    background: #38609D; }
+    .menu.top a {
+      padding-top: 6px;
+      padding-bottom: 6px; }
+      .menu.top a:hover, .menu.top a.select {
+        background: none;
+        color: #84b86e; }
+  .menu.menu.bottom {
+    padding-left: 0;
+    margin-top: 10px; }
+    .menu.menu.bottom a {
+      margin: 0;
+      padding: 6px 0; }
+  .header .panel {
+    background: #fff;
+    z-index: 999;
+    position: fixed;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 8px;
+    width: 100%;
+    left: 0;
+    top: 0;
+    border-bottom: 2px solid #EBEBEB; }
+    .header .panel .links, .header .panel .contacts {
+      display: none; }
+    .header .panel .logo {
+      margin-bottom: 0; }
+      .header .panel .logo img {
+        display: block;
+        width: auto;
+        max-width: 147px;
+        margin-left: auto;
+        margin-right: auto; }
+      .header .panel .logo .name {
+        text-align: center;
+        font-size: 9px;
+        margin-top: 1px; }
+    .header .panel .links {
+      position: absolute;
+      top: 168px;
+      right: 0;
+      background: #38609D;
+      color: white;
+      padding-top: 0;
+      margin-bottom: 0;
+      padding-bottom: 62px; }
+      .header .panel .links a {
+        color: white;
+        margin-left: 0; }
+        .header .panel .links a.btnCallBack {
+          border-bottom: 2px solid white; }
+        .header .panel .links a.btnCalc {
+          border-bottom: 2px dashed white; }
+      .header .panel .links .margin-top {
+        margin-top: 10px; }
+    .header .panel .contacts {
+      position: absolute;
+      top: 59px;
+      right: 0;
+      background: #38609D;
+      color: white;
+      text-align: center;
+      padding-top: 38px;
+      padding-bottom: 45px; }
+      .header .panel .contacts .time {
+        display: none; }
+      .header .panel .contacts .tel {
+        color: white; }
+  .header .banner {
+    min-height: 100%; }
+    .header .banner .container {
+      display: none; }
+  .main .breadcrumbs {
+    display: none; }
+  .main .services {
+    margin-bottom: 0; }
+    .main .services .description {
+      font-size: 12px; }
+    .main .services .row {
+      margin-top: 0; }
+    .main .services p {
+      font-size: 11px;
+      max-width: 400px;
+      margin-left: auto;
+      margin-right: auto; }
+  .main .trust {
+    padding-bottom: 0; }
+    .main .trust p {
+      max-width: 300px;
+      margin: 0 auto; }
+  .main .clients {
+    padding-bottom: 20px; }
+  .main .thanks {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 40px; }
+    .main .thanks .col {
+      display: none; }
+      .main .thanks .col:nth-of-type(1), .main .thanks .col:nth-of-type(2) {
+        display: block; }
+    .main .thanks .all-thanks {
+      display: block;
+      width: 180px;
+      font-size: 14px;
+      line-height: 30px; }
+  .main .pagination {
+    display: none; }
+  .main .services-table {
+    padding: 15px 0 0 0; }
+    .main .services-table .title {
+      font-size: 18px; }
+    .main .services-table .row {
+      padding-left: 0;
+      padding-right: 0; }
+  .main .about {
+    padding-left: 0;
+    padding-right: 0; }
+    .main .about .col {
+      margin-bottom: 0; }
+  .main .guarantees h2 {
+    padding-top: 30px;
+    padding-bottom: 25px; }
+  .footer {
+    padding-bottom: 0; }
+    .footer .logo {
+      text-align: center;
+      padding-top: 25px;
+      margin-bottom: 15px; }
+      .footer .logo img {
+        display: block;
+        margin: 0 auto 10px; }
+      .footer .logo span {
+        font-size: 8px; }
+    .footer .contacts {
+      text-align: center;
+      margin-bottom: 30px; }
+      .footer .contacts .tel {
+        margin-bottom: 20px; }
+        .footer .contacts .tel span {
+          display: block;
+          margin-bottom: 8px; }
+    .footer .dev {
+      margin-bottom: 20px; } }
+
+@media screen and (max-width: 768px) {
+  #popup .popup-container {
+    width: 95%; } }
+
+@media screen and (max-width: 470px) {
+  .block-vid label, .block-vid select {
+    display: block;
+    float: none !important;
+    width: 100%; }
+  .block-vid label {
+    margin-bottom: 10px; } }
